@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/drawable/bottom_corer_round.xml" value="0.1105" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/drawable/popup_background.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout-land/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout-land/activity_road_works_details.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout-land/dialog_uninitialized.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout-land/single_road_map_item.xml" value="0.12" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout/activity_event_details.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout/activity_event_location.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout/activity_main.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout/activity_planner.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout/activity_road_works_details.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout/content_map.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout/dialog_uninitialized.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout/single_event_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/layout/single_road_map_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Name_jhonDoe_1234/app/src/main/res/xml/roadworks_data.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

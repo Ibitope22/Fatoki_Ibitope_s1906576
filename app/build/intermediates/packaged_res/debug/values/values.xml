@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#0177EC</color>
+    <color name="colorPrimary">#0177EC</color>
+    <color name="colorPrimaryDark">#0177EC</color>
+    <color name="colorPrimaryLight">#DF6AB2FA</color>
+    <color name="grey">#a9a9a9</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="normal_text_size">16sp</dimen>
+    <string name="app_name">Fatoki_Ibitope_s1906576</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" ns1:ignore="ExtraTranslation" translatable="false">
+        AIzaSyDjBLqLTXocPZzVgQPaSYJVm-CYk0JbHKo</string>
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/popup_background</item>
+    </style>
+    <style name="Theme.Name_jhonDoe_1234" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorPrimaryDark</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

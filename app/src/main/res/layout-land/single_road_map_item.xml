@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_marginStart="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="5dp"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="10dp">
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/parent_layout"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/title"
+                android:text="Title"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                android:layout_gravity="clip_horizontal"
+                android:gravity="center"
+                android:fontFamily="@font/segoe_ui_bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/author"
+                android:text="Author"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:layout_gravity="clip_horizontal"
+                android:fontFamily="@font/segoe_ui"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/road_tv"
+                android:text="Road"
+                android:textColor="@color/black"
+                android:textSize="@dimen/normal_text_size"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:fontFamily="@font/segoe_ui"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/region_tv"
+                android:text="Region"
+                android:textColor="@color/black"
+                android:textSize="@dimen/normal_text_size"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:fontFamily="@font/segoe_ui"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/category"
+                android:text="Category: No Delay"
+                android:textColor="@color/black"
+                android:layout_marginTop="10dp"
+                android:textSize="@dimen/normal_text_size"
+                android:fontFamily="@font/segoe_ui"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/date_tv"
+                android:text="Tue, 29 Mar 2022 02:29:05 +0100"
+                android:textColor="@color/black"
+                android:layout_marginTop="10dp"
+                android:gravity="end"
+                android:textSize="@dimen/normal_text_size"
+                android:fontFamily="@font/segoe_ui"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
